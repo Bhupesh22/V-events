@@ -1,2 +1,4 @@
 # V-events
-Event registration website using materialize design .
+College event registration & announcement website using materialize design .
+
+Stack includes : HTML,CSS,php,JavaScript,material design
